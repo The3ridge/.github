@@ -2,4 +2,4 @@
 
 ## Hi there 👋
 
-The3ridge is an organization dedicated to being a bridge that connects people, with a particular focus on delivering value to people through software. It places great emphasis on curiosity, and develops software that enables users to accelerate and expand their curiosity.
+The3ridge is a bridge connecting people through technology to cultivate a cycle of knowledge and experience. Our software acts as a catalyst, awakening individual curiosity and inspiring self-driven exploration and action. Through thoughtful, technology-driven value, we are shaping a future where curiosity continues to grow.
